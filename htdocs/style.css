@@ -28,6 +28,7 @@ li a:hover:not(.active) {
 #header
 {padding:10px;
 background-color:#fafaf0;
+width:100%;
 color:#000}
 
 #header h1{font-size:24px;}
@@ -50,5 +51,5 @@ width:960px;
 }
 
 #container{
-width:960px;
+width:100%;
 }
