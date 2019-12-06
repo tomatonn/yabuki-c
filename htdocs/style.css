@@ -1,38 +1,27 @@
-/*デフォルトの設定*/
-*{margin:0;padding:0}
-/*ヘッダの設定*/
-div#header{
-/*ボックスの設定*/
-padding: 0 0 0 2%;/*枠内余白*//*上右下左の余白*/
-background: #2AB8EA;/*背景*//*色*/
-/*文字の設定*/
-color: white;/*文字の色*//*白*/
+ul {
+	width: 200px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: #eeeeee;
 }
-/*コンテンツの設定*/
-div#content{
-/*ボックスの設定*/
-width: 83%;/*幅*/
-height: 600px;/*高さ*/
-padding: 0 0 0 2%;/*枠内余白*//*上右下左の余白*/
-background: #F3FA78;/*背景*//*色*/
-/*ボックスの配置*/
-float: right;/*回り込み*//*右寄せ*/
+li a {
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	color: #000000;
 }
-/*ナビの設定*/
-div#navi{
-/*ボックスの設定*/
-width: 13%;/*幅*/
-height: 600px;/*高さ*/
-padding: 0 0 0 2%;/*枠内余白*//*上右下左の余白*/
-background: #B9CAFF;/*背景*//*色*/
-/*ボックスの配置*/
-float: left;/*回り込み*//*左寄せ*/ 
+li {
+	text-align: center;
 }
-/*フッターの設定*/
-div#footer{
-/*ボックスの設定*/
-padding: 0 0 0 2%;/*枠内余白*//*上右下左の余白*/
-background:#2ABBBB;/*背景*//*色*/
-/*ボックスの配置*/
-clear: both;/*回り込み解除*//*左右解除*/ 
+li:last-child {
+	border-bottom: none;
+}
+li a.active {
+	color: #ffffff;
+	background-color: #da3c41;
+}
+li a:hover:not(.active) {
+	color: #ffffff;
+	background-color: #1b2538;
 }
