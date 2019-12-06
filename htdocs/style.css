@@ -27,6 +27,7 @@ li a:hover:not(.active) {
 }
 #header
 {padding:10px;
+ width:960px;
 background-color:#fafaf0;
 color:#000}
 
@@ -46,6 +47,7 @@ background-color:#82c88f;}
 #footer{
 clear:both;
 background-color:#f5c4e3;
+width:960px;
 }
 
 #container{
