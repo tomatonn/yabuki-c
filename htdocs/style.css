@@ -3,7 +3,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
-	background-color: #eeeeee;
+	background-color: #b9dff8;
 }
 li a {
 	display: block;
@@ -19,7 +19,7 @@ li:last-child {
 }
 li a.active {
 	color: #ffffff;
-	background-color: #da3c41;
+	background-color: #657ff1;
 }
 li a:hover:not(.active) {
 	color: #ffffff;
