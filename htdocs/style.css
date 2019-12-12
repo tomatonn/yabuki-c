@@ -38,7 +38,23 @@ color:#000}
 #main{float:right;
 width:760px;
 height:600px;}
+h1 {
+	position: relative;
+	padding: 0.6em
+	background-color #65d0f1;
+    }
 
+h1 {
+	position: absolute;
+	content: '';
+	top: 100%;
+	left: 30%;
+	border: 15px solid transparent;
+	border-top: 15px solid #e0edff ;
+	width: 0;
+	height: 0;
+   }
+   
 #side{float:left;
 width:200px;
 height:600px;
