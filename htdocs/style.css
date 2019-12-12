@@ -37,28 +37,12 @@ color:#000}
 
 #main{float:right;
 width:760px;
-height:600px;}
+height:800px;}
 
-p {
-	font-size:30px;
-	color: #505050;
-	padding: 0.5em;
-	display: inline-block;
-	line-height: 1.8;
-	background: #73f790;
-	vertical-align: middle;
-	border-radius: 25px 0px 0px 25px; 
-    }
-
-p:before {
-		   content: '●';
-		   color: white;
-		   margin-right: 8px;
-   }
 
 #side{float:left;
 width:200px;
-height:600px;
+height:800px;
 background-color:#82c88f;}
 
 #footer{
@@ -70,5 +54,4 @@ width:100%;
 
 #container{
 width:100%;
-font-size:15px;
 }
