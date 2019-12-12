@@ -44,7 +44,7 @@ h1 {
 	background-color #65d0f1;
     }
 
-h1 {
+h1::after {
 	position: absolute;
 	content: '';
 	top: 50%;
