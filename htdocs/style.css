@@ -47,8 +47,8 @@ h1 {
 h1 {
 	position: absolute;
 	content: '';
-	top: 100%;
-	left: 30%;
+	top: 50%;
+	left: 15%;
 	border: 15px solid transparent;
 	border-top: 15px solid #e0edff ;
 	width: 0;
