@@ -31,7 +31,7 @@ background-color:#fafaf0;
 width:100%;
 color:#000}
 
-#header h1{font-size:40px;}
+#header p{font-size:40px;}
 
 #content{width:100%}
 
@@ -54,7 +54,7 @@ h1 {
 	width: 0;
 	height: 0;
    }
-   
+
 #side{float:left;
 width:200px;
 height:600px;
