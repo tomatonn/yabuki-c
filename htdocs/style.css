@@ -39,7 +39,7 @@ color:#000}
 width:760px;
 height:600px;}
 
-div {
+h1 {
 	font-size:40px;
 	color: #505050;
 	padding: 0.5em;
@@ -50,7 +50,7 @@ div {
 	border-radius: 25px 0px 0px 25px; 
     }
 
-div::before {
+h1:before {
 		   content: '●';
 		   color: white;
 		   margin-right: 8px;
