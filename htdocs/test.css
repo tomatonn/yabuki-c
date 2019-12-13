@@ -14,12 +14,6 @@ h1 {
     margin-right: 8px;
   }
 
-  h2 {
-    /*線の種類（二重線）太さ 色*/
-    border-bottom: double 5px #FFC778;
-  }
-  
-
   p {
     font-size:25px;
     position: relative;
