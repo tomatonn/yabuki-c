@@ -38,7 +38,8 @@ color:#000}
 #main{float:right;
 width:760px;
 height:800px;}
-table {margin: 0px auto;}
+table {margin: 0px auto;} /*表の設定*/
+td {text-align: center;} /*表の設定*/
 
 
 #side{float:left;
