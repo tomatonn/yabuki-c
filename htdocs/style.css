@@ -63,6 +63,8 @@ h2 {
 #main{float:right;
 width:800px;
 height:900px;}
+table {margin: 0px auto;} /*表の設定*/
+td {text-align: center;} /*表の設定*/
 
 
 #side{float:left;
