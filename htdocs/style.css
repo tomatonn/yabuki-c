@@ -63,7 +63,7 @@ h2 {
 #main{float:right;
 	overflow:auto;
 width:800px;
-height:500px;}
+height:800px;}
 table {margin: 0px auto;} /*表の設定*/
 td {text-align: center;} /*表の設定*/
 
@@ -71,7 +71,7 @@ td {text-align: center;} /*表の設定*/
 #side{float:left;
 font-size: 25px;
 width:300px;
-height:500px;
+height:800px;
 background-color:#82c88f;}
 
 #footer{
